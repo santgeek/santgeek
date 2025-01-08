@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Santiago Montoya and I'm a Front End Developer from Ecuador.</h3>
+<h3 align="left">Hi 👋! My name is Santiago Montoya and I'm a Front End Developer, from Ecuador.</h3>
 
 ###
 
@@ -42,7 +42,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/santgeek/santgeek/output/snake.svg" alt="Snake animation" />
-
-
 
 ###
