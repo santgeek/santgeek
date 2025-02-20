@@ -4,6 +4,10 @@
 
 <p align="left">As a developer, I focus on creating products that align with the specific needs of each client. I always strive for efficiency and effectiveness in communication, ensuring that every project is not only viable but also sustainable in the long run. I enjoy working in teams and sharing knowledge, as I believe collaboration is key to achieving great results. I am eager to learn new technologies and enhance my skills to continue contributing to innovation in the development world.</p>
 
+<p align="left">I have worked on projects that include the development of a chatbot built with artificial intelligence, scheduling appointments with Calendary, and audio recording.</p>
+
+<p align="left">I am currently learning Tailwind to enhance my skills and broaden my knowledge in Frontend, and I am looking to study Nest.js to develop applications in Backend.</p>
+
 ###
 
 <div align="center">
